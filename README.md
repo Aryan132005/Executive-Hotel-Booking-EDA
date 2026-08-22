@@ -475,7 +475,3 @@ This project demonstrates how Exploratory Data Analysis can be used to convert a
 The analysis helps management understand booking behavior, revenue performance, pricing patterns, cancellation trends, customer satisfaction, and market segment performance.
 
 The identified insights and recommendations can support better decisions related to pricing, marketing, customer experience, booking channels, and revenue management.
-
-## 👨‍💻 Author
-
-**Aaru**
